@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: b0dee8b8e2a101c459078d698b5face4
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tripo_material_bfb123c7-b09c-4d9c-bf16-87c557c88ac8
+    second: {fileID: 2100000, guid: 4011b9adad8b7454ab6b1a1e3a342035, type: 2}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Color_bfb123c7-b09c-4d9c-bf16-87c557c88ac8
+    second: {fileID: 2800000, guid: 61b80980f259e88459a01e18e8feb8cd, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: NormalGL_bfb123c7-b09c-4d9c-bf16-87c557c88ac8.normal
+    second: {fileID: 2800000, guid: 4cbd17e736ec7a846b4fbfadfa77e391, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: ORM_bfb123c7-b09c-4d9c-bf16-87c557c88ac8.standard
+    second: {fileID: 2800000, guid: 2ac7f0c3795117d4290d807afd05a08e, type: 3}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc45016b844e7624dae3aec10fb443ea, type: 3}
+  reverseAxis: 0
+  renderPipeline: 0
